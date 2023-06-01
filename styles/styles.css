@@ -1,0 +1,81 @@
+*{  
+    
+    margin: 0;
+}
+
+main{
+    max-width: 60rem;
+    margin-inline: auto;
+}
+
+header{
+    
+    background-image: url(/img/fondo\ trabajo.jpg);
+    
+}
+
+.fotoPerfil{
+    
+    text-align: center;
+    
+}
+
+.fotoPerfil img{
+    height: 20%;
+    width: 20%;
+    padding: 10px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h1, h2{
+    background-color: #C4C4C4;;
+    color: #005677;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+p{
+    background-color: #005677;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+span{
+    font-weight: bold;
+}
+li span{
+    font-style: italic;
+}
+
+i{
+    margin-left: 0.8em;
+}
+
+dt{
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+.sobre-mi{
+    margin-right: 40px;
+}
+.miComentario{
+    background-color: crimson;
+}
